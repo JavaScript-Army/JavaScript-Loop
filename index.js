@@ -1,0 +1,1 @@
+//Solve this easy problem with JavaScript
