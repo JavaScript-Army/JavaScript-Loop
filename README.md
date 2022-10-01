@@ -3,15 +3,25 @@
 
 Command on your Terminal step by step
 
+Clone the repository
 ```bash
   git clone https://github.com/JavaScript-Army/JavaScript-Loop.git
 ```
-
+Change your directory
 ```bash
-    Create a JavaScript file on your folder
+    cd javascript-loop
 ```
+Create & switch branch with your name
 ```bash
-    Push your repository
+    git checkout -b branch-name
+``` 
+Create a JavaScript file on your folder
+```bash
+    touch index.js
+```
+Push your files
+```bash
+    git push -u origin your-branch-name
 ```
 ```bash
     Create a pull request on GitHub
