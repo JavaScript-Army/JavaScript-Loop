@@ -7,6 +7,10 @@ Clone the repository
 ```bash
   git clone https://github.com/JavaScript-Army/JavaScript-Loop.git
 ```
+Change your directory
+```bash
+    cd javascript-loop
+```
 Create & switch branch with your name
 ```bash
     git checkout -b branch-name
