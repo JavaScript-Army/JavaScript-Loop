@@ -6,6 +6,10 @@ Command on your Terminal step by step
 ```bash
   git clone https://github.com/JavaScript-Army/JavaScript-Loop.git
 ```
+Create & switch branch with your name
+```bash
+    git checkout -b branch-name
+``` 
 
 ```bash
     Create a JavaScript file on your folder
